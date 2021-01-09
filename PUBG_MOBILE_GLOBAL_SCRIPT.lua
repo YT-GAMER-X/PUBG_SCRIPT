@@ -1,1 +1,1 @@
-gg.alert("💥working this method 💥")
+gg.alert("💥working this method 2💥")
