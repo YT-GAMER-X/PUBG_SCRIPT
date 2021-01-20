@@ -1,4 +1,4 @@
-gg.alert ("55ggggg5")
+gg.alert ("55gggf. R gg5")
 gg.setVisible(false)
 gg.sleep(200)
 gg.sleep(100)--【▓】
