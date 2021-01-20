@@ -1,3 +1,4 @@
+gg.alert ("555")
 gg.setVisible(false)
 gg.sleep(200)
 gg.sleep(100)--【▓】
