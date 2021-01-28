@@ -1,4 +1,5 @@
 ---8198 9
+---『YT乛MD๛ARIF』
 HOME = 1
 function HOME()
 gg.toast("【𝕐𝕋乛𝔾𝔸𝕄𝔼ℝ๛𝕏】")
